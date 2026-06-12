@@ -1,16 +1,26 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,25:7C3AED,50:8B5CF6,75:6366F1,100:2563EB&text=Aswin%20Sreenivas&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Diploma+in+Computer+Engineering;Frontend+Web+Development+Learner;Building+Web+Projects;Open+to+Internships" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E3A8A,50:2563EB,75:1D4ED8,100:0F172A&text=Aswin%20Sreenivas&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Diploma%20in%20Computer%20Engineering&descAlignY=60&descSize=18" width="100%"/>
 
-<br/>
-
-![](https://img.shields.io/badge/Diploma-Computer%20Engineering-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Frontend-Web%20Development-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20to-Internships-2563EB?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Diploma+in+Computer+Engineering;Frontend+Web+Development+Learner;Building+Modern+Websites;Learning+PHP+%26+MySQL;Open+to+Internships" alt="Typing SVG" />
 
 <br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aswin-sreenivas&theme=algolia&no-frame=true&row=1&column=6" />
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Diploma-Computer%20Engineering-1E40AF?style=for-the-badge)
+![](https://img.shields.io/badge/Frontend-Web%20Development-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to-Internships-3B82F6?style=for-the-badge)
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin-sreenivas&theme=github-compact&hide_border=true" width="100%"/>
+
+</div>
 
 <a href="https://github.com/aswin-sreenivas">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
