@@ -40,18 +40,7 @@
 
 </div>
 
----
 
-# 👨‍💻 About Me
-
-- 🎓 Diploma Graduate in Computer Engineering
-- 💻 Frontend Web Development Learner
-- 🌱 Learning HTML, CSS, JavaScript, Bootstrap, PHP & MySQL
-- 🚀 Interested in building responsive websites
-- 📚 Continuously improving my web development skills
-- 🤝 Open to internships and learning opportunities
-
----
 
 
 
