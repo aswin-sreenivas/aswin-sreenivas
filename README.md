@@ -131,17 +131,6 @@ A responsive portfolio website showcasing my education, projects and skills.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswin-sreenivas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-sreenivas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📫 Connect With Me
 
