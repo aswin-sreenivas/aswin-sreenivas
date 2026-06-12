@@ -38,6 +38,15 @@
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aswin-sreenivas/aswin-sreenivas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 </div>
 
 
